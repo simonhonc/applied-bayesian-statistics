@@ -1,4 +1,4 @@
-# Kapitel 1.1 – Introduction
+## Kapitel 1.1 – Introduction
 
 Dieses Skript führt in die **Bayesianische Inferenz** ein. Im ersten Kapitel geht es darum, den thematischen Rahmen zu setzen: Welche Themen werden behandelt, wie hängen sie zusammen und welche Methoden stehen im Mittelpunkt?  
 
@@ -6,7 +6,7 @@ Die Übersicht zeigt zwei große Blöcke von Inhalten: **Grundlagen** und **Vert
 
 ---
 
-## Überblick A – Grundlagen der Bayesianischen Inferenz
+### Überblick A – Grundlagen der Bayesianischen Inferenz
 
 Die ersten Themen führen schrittweise in die Denkweise und Methoden der Bayesianischen Statistik ein:  
 
@@ -33,7 +33,7 @@ Die ersten Themen führen schrittweise in die Denkweise und Methoden der Bayesia
 
 ---
 
-## Überblick B – Vertiefende Themen
+### Überblick B – Vertiefende Themen
 
 Der zweite Block geht über die Grundlagen hinaus und behandelt anspruchsvollere Methoden und Konzepte:  
 
@@ -69,7 +69,7 @@ Der zweite Block geht über die Grundlagen hinaus und behandelt anspruchsvollere
 
 ---
 
-## Hinweise zum Einsatz von Software
+### Hinweise zum Einsatz von Software
 
 - **R** wird in vielen Beispielen verwendet und liefert die Basisumgebung.  
 - **WinBUGS** wird vollständig eingesetzt, um Bayesianische Modelle praktisch umzusetzen.  
@@ -77,7 +77,7 @@ Der zweite Block geht über die Grundlagen hinaus und behandelt anspruchsvollere
 
 ---
 
-## Zusammenfassung  
+### Zusammenfassung  
 
 Kapitel 1.1 gibt einen umfassenden Überblick:  
 - **Teil A** stellt die Grundlagen vor – von Bayes’ Theorem über konjugierte Modelle bis hin zu Simulation und klassischen statistischen Methoden in bayesianischer Form.  
