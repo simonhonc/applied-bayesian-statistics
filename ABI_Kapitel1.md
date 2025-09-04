@@ -4,7 +4,7 @@ Dieses erste Kapitel schafft die Grundlage für das gesamte Skript. Es erklärt,
 
 Der Aufbau gliedert sich in mehrere Abschnitte:  
 
-1. [**Kapitel 1.1 – Introduction**]](https://github.com/simonhonc/applied-bayesian-statistics/blob/main/ABI_Kapitel1.1.md)
+1. [**Kapitel 1.1 – Introduction**](https://github.com/simonhonc/applied-bayesian-statistics/blob/main/ABI_Kapitel1.1.md)
    Ein Überblick über das Themenfeld: Welche Grundlagen und welche weiterführenden Methoden werden behandelt? Die Leser erhalten eine Landkarte, an der sie sich im weiteren Verlauf orientieren können.  
 
 2. [**Kapitel 1.2 – Why Bayesian Inference?**](https://github.com/simonhonc/applied-bayesian-statistics/blob/main/ABI_Kapitel1.2.md)
