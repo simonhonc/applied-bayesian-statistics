@@ -1,4 +1,4 @@
-## Kapitel 1.2 – Why Bayesian Inference?
+## Kapitel 1.2 – Warum Bayesian Inference?
 
 ### Ausgangsfrage
 
