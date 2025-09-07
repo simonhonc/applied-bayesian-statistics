@@ -1,4 +1,4 @@
-## Kapitel 1.1 – Introduction
+## Kapitel 1.1 – Einleitung
 
 Dieses Skript führt in die **Bayesianische Inferenz** ein. Im ersten Kapitel geht es darum, den thematischen Rahmen zu setzen: Welche Themen werden behandelt, wie hängen sie zusammen und welche Methoden stehen im Mittelpunkt?  
 
