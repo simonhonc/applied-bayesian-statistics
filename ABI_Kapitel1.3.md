@@ -1,4 +1,4 @@
-## Kapitel 1.3 – Historical Overview
+## Kapitel 1.3 – Geschichte der Statistik
 
 Die Geschichte der Statistik erinnert an eine kleine Evolutionsgeschichte: aus frühen, oft spekulativen Ideen entwickelte sich eine Praxis, die über Jahrhunderte ihr Gesicht mehrfach veränderte. Der Weg von Bayes über Laplace und Fisher bis in die moderne Statistik zeigt, wie eng methodische Innovationen mit philosophischen Grundhaltungen verbunden sind.
 
