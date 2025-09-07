@@ -1,4 +1,4 @@
-## Kapitel 1.5 – Discrete Version of Bayes’ Theorem
+## Kapitel 1.5 – Diskrete Version des Bayes’ Theorem
 
 Der Satz von Bayes lässt sich in einer besonders einfachen Form für **diskrete Ereignisse** formulieren. Er erlaubt es, Hypothesen und Beobachtungen in Beziehung zu setzen: Vorwissen wird durch neue Daten angepasst.
 
