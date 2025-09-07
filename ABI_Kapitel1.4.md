@@ -1,4 +1,4 @@
-## Kapitel 1.4 – Bayesian and Frequentist Inference
+## Kapitel 1.4 – Bayesian und Frequentist Inference
 
 Statistische Inferenz – also das Schließen von Daten auf zugrunde liegende Strukturen – wird traditionell in zwei große Ansätze unterteilt. Beide haben ihre eigene Philosophie, ihre eigenen Methoden und ihre eigenen Stärken.
 
